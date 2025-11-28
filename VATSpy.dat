@@ -185,7 +185,7 @@ Moldova|LU|Control
 Mongolia|ZM|Control
 Montserrat|TR|
 Morocco|GM|Radar
-Mozambique|FQ|
+Mozambique|FQ|Control
 Myanmar|VY|Control
 Namibia|FY|Radar
 Nauru|AN|
@@ -18358,18 +18358,17 @@ EIDW|Dublin ACC (Up to FL245) - Dublin||EIDW
 EISN|Shannon ACC - Shannon||EISN
 EISN-L|Shannon ACC (Up to FL245) - Shannon|EISN_LS|EISN-L
 EKDK|Kobenhavn||EKDK
-EKDK-E|Kobenhavn (East)|EKDK_E|EKDK-E
-EKDK-E|Kobenhavn (East)|EKDK_D|EKDK-E
-EKDK-E|Kobenhavn (East)|EKDK_I|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_A|EKDK-E
 EKDK-E|Kobenhavn (East)|EKDK_B|EKDK-E
 EKDK-E|Kobenhavn (East)|EKDK_C|EKDK-E
-EKDK-E|Kobenhavn (East)|EKDK_A|EKDK-E
-EKDK-E|Kobenhavn (East)|EKDK_OE|EKDK-E
-EKDK-UN|Kobenhavn (Sector UN)|EKDK_UN|EKDK-UN
+EKDK-E|Kobenhavn (East)|EKDK_D|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_E|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_I|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_UA|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_UC|EKDK-E
+EKDK-L|Kobenhavn (West Low)|EKDK_L|EKDK-L
 EKDK-W|Kobenhavn (West)|EKDK_V|EKDK-W
 EKDK-W|Kobenhavn (West)|EKDK_N|EKDK-W
-EKDK-W|Kobenhavn (West)|EKDK_L|EKDK-W
-EKDK-W|Kobenhavn (West)|EKDK_S|EKDK-W
 ENBD|Bodo ACC - Polaris||ENBD
 ENBD-19|Bodø ACC - Polaris|ENBD_19|ENBD-19
 ENBD-C|Bodø ACC (Central) - Polaris|ENBD_C|ENBD-C
@@ -18440,6 +18439,7 @@ FLFI|Lusaka||FLFI
 FMMM|Antananarivo||FMMM
 FNAN|Luanda||FNAN
 FQBE|Beira||FQBE
+FQMA|Maputo||FQMA
 FSSS|Seychelles||FSSS
 FTTT|N'Djamena||FTTT
 FVHF|Harare||FVHF
@@ -18510,11 +18510,6 @@ KZLA|Los Angeles|LA|KZLA
 KZLC|Salt Lake City|SLC|KZLC
 KZMA|Miami|MIA|KZMA
 KZMA-OCN|Miami|ZMO|KZMA-OCN
-KZMA-OCN|Miami|MIA_62|KZMA-OCN
-KZMA-OCN|Miami|MIA_621|KZMA-OCN
-KZMA-OCN|Miami|MIA_622|KZMA-OCN
-KZMA-OCN|Miami|MIA_623|KZMA-OCN
-KZMA-OCN|Miami|MIA_624|KZMA-OCN
 KZMA-N|Miami|ZMA|KZMA-N
 KZMA-N|Miami|MIA_N|KZMA-N
 KZMA-N|Miami|MIA_N1|KZMA-N
